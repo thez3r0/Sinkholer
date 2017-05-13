@@ -9,4 +9,10 @@ Read full story here :https://goo.gl/IDH9ZL
 
 #what sinkHoler do?
 
-It try to connect the kill switch domain IF connection is successfull it will show a success message. or else it shows you a warning msg. 
+It try to connect the kill switch domain IF connection is successfull it will show a success message. or else it shows you a warning msg.
+
+# SMB Disabler
+SMB Disabler disable the SMB Protocol . that helps you to protect your pc, if your working enviroment is affected with Wannacry. 
+
+# why should I use??? Reason ?
+WannaCRY ransomware is capable to spread itself over the network using the SMB Exploit. 
